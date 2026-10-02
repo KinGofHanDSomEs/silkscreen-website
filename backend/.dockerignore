@@ -1,0 +1,15 @@
+migrations/
+.git
+.gitignore
+.gitattributes
+
+Dockerfile
+.dockerignore
+docker-compose.yml
+
+README.md
+LICENSE
+
+.idea/
+.env
+.env.*
